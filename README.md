@@ -131,7 +131,7 @@ $("#changerificwordspanid").typed({
 图片名称|含义
 :--:|:--:
 404.png|404页面
-avatar.jpg|网站图标
+avatar.png|网站图标
 fish.png|404页面
 github.svg|GitHub图标
 house1.png|404页面
