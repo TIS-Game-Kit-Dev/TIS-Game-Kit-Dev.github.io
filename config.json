@@ -1,10 +1,10 @@
 {
     "name": "TIS-Game-Kit-Dev",
-    "repo": "TIS游戏开发工具组公共博客",
+    "repo": "TIS-Game-Kit-Dev.github.io",
     "client_id": "9499270802e0d43dc19b",
     "client_secret": "0b8d8b86af0804fe75ff808e059b642686b447ad",
     "title": "TIS游戏开发工具组公共博客",
-    "instruction": "基于GitHub issue的个人博客模板",
+    "instruction": "基于GitHub issue的公共博客",
     "server_link": "http://36.26.69.179:21145/gh-oauth-server.php",
     "filter": {
         "creator": "all",
